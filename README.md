@@ -1,5 +1,7 @@
 # Credit-Risk
 This is a broad project to gather data on the risks of lending to different categories.
+Check out the Tableau Dashboard: https://public.tableau.com/app/profile/kyle.chung3614/viz/CreditRiskDashboard_16844482314070/CreditRiskDashboard
+
 Problem Statement: What is the average default rate of the data set and which factors generally have higher default rates?
 
 Prediction: Lower income individuals and loan intentions for medical will have higher default rates.
